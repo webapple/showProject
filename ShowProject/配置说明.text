@@ -1,0 +1,5 @@
+用户名 密码配置在 
+resources 下面的userinfo.json里面
+
+运行之后访问
+http://localhost:8080/ShowProject/user/showLogin.do
